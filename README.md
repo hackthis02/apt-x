@@ -1,4 +1,4 @@
-# APTX for Android Oreo
+# APTX for Android Oreo on Razer Phone 2
 
 **This module is useless if you don't have any aptx supported headphones!**
 
@@ -18,6 +18,10 @@ Upgrade libraries from Pie, tested them on Oreo 8.1 and works fine.
 - Android 8+
 - arm64 system
 
+## Recommended
+- Razer Phone 2
+
 ## Changelog
 - v1.0 inital release
 - v1.1 update pie libraries
+- v1.2 update for RP2
